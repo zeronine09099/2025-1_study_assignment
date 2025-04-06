@@ -64,7 +64,7 @@ collaborator 옵션은 편하신 걸로 선택하시면 됩니다.
 
 김준하: jjun0403
 
-김진현: Kabel
+김진현: rlawlsgus
 
 박건호: Rascal0902
 
