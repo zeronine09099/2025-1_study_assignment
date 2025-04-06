@@ -62,10 +62,14 @@ collaborator 옵션은 편하신 걸로 선택하시면 됩니다.
 
 아래의 ID를 모두 추가해주세요.
 
-조해나: HenaCho
+김준하: jjun0403
 
-여준: YeoJune
+김진현: Kabel
 
-여동현: skku-sleepwalk
+박건호: Rascal0902
 
-정재하: suexst
+박재용: jaeyongpark121
+
+신동연: Prazens
+
+홍성범: usac132
